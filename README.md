@@ -1,6 +1,5 @@
 # Prerequisite
-To start with this program, you'll need an IDE compatible with Javascript, HTML and CSS like Visual Code. An extention like JS JSX Snippets is suggested. 
-
+To start with this program, you'll need npm installed
 # Installation
 
 Quick start:
